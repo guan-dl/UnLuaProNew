@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UnLuaProNew",
+			"Path": "..\\Source\\UnLuaProNew.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UnLuaProNewEditor",
+			"Path": "..\\Source\\UnLuaProNewEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

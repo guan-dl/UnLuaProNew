@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\UE5Pro\\UnLuaProNew\\Source\\UnLuaProNew\\UnLuaProNew.Build.cs",
+		"E:\\UE5Pro\\UnLuaProNew\\Source\\UnLuaProNew.Target.cs",
+		"E:\\UE5Pro\\UnLuaProNew\\Source\\UnLuaProNewEditor.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}

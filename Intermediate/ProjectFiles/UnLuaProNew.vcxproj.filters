@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\UnLuaProNew.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UnLuaProNew.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\UnLuaProNewEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\UnLuaProNew">
+      <UniqueIdentifier>{38C07E47-0959-3892-B8F8-1D7FC9BB6D1B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UnLuaProNew\UnLuaProNew.Build.cs">
+      <Filter>Source\UnLuaProNew</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\UnLuaProNew\UnLuaProNew.cpp">
+      <Filter>Source\UnLuaProNew</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnLuaProNew\UnLuaProNew.h">
+      <Filter>Source\UnLuaProNew</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
